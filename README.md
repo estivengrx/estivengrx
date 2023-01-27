@@ -1,16 +1,24 @@
-### Hi there 👋
+# :milky_way: Welcome to Estiven's GitHub Profile :atom_symbol:
 
-<!--
-**estivengrx/estivengrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/estiven0507">
+  <img align="right" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ 
+<a href="https://www.linkedin.com/in/estiven-castrillon-alzate-72823a253/">
+  <img align="right" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a> 
+ <a href="https://www.kaggle.com/estiven0507">
+  <img align="right" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+ </a>
 
-Here are some ideas to get you started:
+¡Hola!, I am a physics student from **Colombia** and data scientist aspiring. I'm currently expanding my knowledge into Python, SQL, Machine learning and data analysis. I am passionate about building innovative and useful analytical projects, and always looking to learn new skills and take on challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On this profile, you will find a selection of my personal and professional projects. Each project has its own readme with detailed information and instructions on how to run and use the code.
+
+Please feel free to take a look around and contact me if you have any questions or would like to collaborate on a project.
+
+## Contact
+
+You can reach me via email at cestiven156@gmail.com or connect with me on social media shown at the right side.
+
+**Thank you for visiting my profile :rocket:**
